@@ -1,5 +1,7 @@
 # Build webrtc libraries
 
+[![Release](https://jitpack.io/v/jacek-marchwicki/webrtc-build-android-libs.svg)](https://jitpack.io/#jacek-marchwicki/webrtc-build-android-libs)
+
 Build on https://git.appunite.com/webrtc/webrtc-build-android/
 
 # Usage
@@ -13,7 +15,7 @@ repositories {
 dependencies {
 
     // snapshot version
-    compile 'com.github.jacek-marchwicki:webrtc-build-android-libs:master-SNAPSHOT'
+    compile 'com.github.jacek-marchwicki:webrtc-build-android-libs:<version-from-jitpack-sticker>'
 
 }
 ```
